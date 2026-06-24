@@ -13,7 +13,7 @@ An interactive product analytics dashboard built on Amazon India sales data (1,4
 ![Ratings Analysis](images/page3_ratings.png)
 
 ### 🎬 Interactive Demo
-![Demo](images/demo.gif)
+![Demo](images/Video.gif)
 
 ---
 
