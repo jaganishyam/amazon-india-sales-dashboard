@@ -155,5 +155,6 @@ amazon-india-sales-dashboard/
 MSc Data Science — University of Essex
 Google Data Analytics Professional Certificate (2026)
 
-[GitHub](https://github.com/shyamjagani) • [LinkedIn](www.linkedin.com/in/shyam-jagani-356535141)
+[GitHub](https://github.com/shyamjagani)
+[LinkedIn](www.linkedin.com/in/shyam-jagani-356535141)
 ```
