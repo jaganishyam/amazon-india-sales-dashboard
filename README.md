@@ -135,7 +135,7 @@ amazon-india-sales-dashboard/
 │   ├── page4_drillthrough.png
 │   └── demo.gif
 └── scripts/
-    └── data_cleaning.py            ← Python cleaning script
+    └── data_cleaning.ipynb            ← Python cleaning script
 ```
 
 ---
